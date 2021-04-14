@@ -1,0 +1,62 @@
+
+jd_tx_cjks_shengfuzoushi.png
+size: 237,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3d_000
+  rotate: false
+  xy: 147, 1
+  size: 89, 41
+  orig: 294, 113
+  offset: 127, 33
+  index: -1
+3d_001
+  rotate: false
+  xy: 181, 44
+  size: 54, 41
+  orig: 294, 113
+  offset: 162, 34
+  index: -1
+3d_002
+  rotate: false
+  xy: 1, 47
+  size: 88, 39
+  orig: 294, 113
+  offset: 127, 36
+  index: -1
+3d_003
+  rotate: false
+  xy: 1, 88
+  size: 109, 19
+  orig: 294, 113
+  offset: 92, 56
+  index: -1
+3d_004
+  rotate: false
+  xy: 1, 4
+  size: 88, 41
+  orig: 294, 113
+  offset: 79, 34
+  index: -1
+3d_005
+  rotate: false
+  xy: 91, 2
+  size: 54, 42
+  orig: 294, 113
+  offset: 79, 33
+  index: -1
+3d_006
+  rotate: false
+  xy: 91, 46
+  size: 88, 39
+  orig: 294, 113
+  offset: 80, 33
+  index: -1
+3d_007
+  rotate: false
+  xy: 112, 87
+  size: 110, 20
+  orig: 294, 113
+  offset: 93, 33
+  index: -1

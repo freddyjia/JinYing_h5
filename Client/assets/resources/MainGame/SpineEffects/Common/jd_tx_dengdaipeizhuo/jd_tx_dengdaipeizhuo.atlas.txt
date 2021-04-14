@@ -1,0 +1,41 @@
+
+jd_tx_dengdaipeizhuo.png
+size: 301,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dengdaipeiz01
+  rotate: true
+  xy: 138, 3
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+dengdaipeiz02
+  rotate: false
+  xy: 1, 1
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+dengdaipeiz03
+  rotate: false
+  xy: 69, 3
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+dengdaipeiz04
+  rotate: true
+  xy: 206, 3
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+dengdaipeiz05
+  rotate: false
+  xy: 273, 39
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1

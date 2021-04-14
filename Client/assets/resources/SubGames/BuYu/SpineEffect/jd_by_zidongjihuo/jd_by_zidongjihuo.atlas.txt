@@ -1,0 +1,62 @@
+
+jd_by_zidongjihuo.png
+size: 392,164
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xsg_009
+  rotate: true
+  xy: 197, 2
+  size: 74, 96
+  orig: 106, 103
+  offset: 5, 4
+  index: -1
+xsg_010
+  rotate: true
+  xy: 294, 78
+  size: 85, 94
+  orig: 106, 103
+  offset: 5, 4
+  index: -1
+xsg_011
+  rotate: false
+  xy: 1, 1
+  size: 96, 75
+  orig: 106, 103
+  offset: 6, 4
+  index: -1
+xsg_012
+  rotate: false
+  xy: 1, 78
+  size: 96, 85
+  orig: 106, 103
+  offset: 7, 4
+  index: -1
+xsg_013
+  rotate: true
+  xy: 99, 1
+  size: 75, 96
+  orig: 106, 103
+  offset: 27, 5
+  index: -1
+xsg_014
+  rotate: true
+  xy: 99, 78
+  size: 85, 95
+  orig: 106, 103
+  offset: 17, 6
+  index: -1
+xsg_015
+  rotate: false
+  xy: 295, 2
+  size: 96, 74
+  orig: 106, 103
+  offset: 5, 27
+  index: -1
+xsg_016
+  rotate: false
+  xy: 196, 79
+  size: 96, 84
+  orig: 106, 103
+  offset: 4, 16
+  index: -1

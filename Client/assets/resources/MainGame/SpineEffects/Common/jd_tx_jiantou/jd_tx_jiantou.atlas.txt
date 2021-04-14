@@ -1,0 +1,55 @@
+
+jd_tx_jiantou.png
+size: 118,87
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiantou
+  rotate: false
+  xy: 47, 42
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+sg_000
+  rotate: false
+  xy: 91, 29
+  size: 22, 24
+  orig: 70, 101
+  offset: 16, 50
+  index: -1
+sg_001
+  rotate: false
+  xy: 31, 3
+  size: 26, 30
+  orig: 70, 101
+  offset: 16, 42
+  index: -1
+sg_002
+  rotate: false
+  xy: 59, 10
+  size: 30, 30
+  orig: 70, 101
+  offset: 16, 38
+  index: -1
+sg_003
+  rotate: false
+  xy: 86, 55
+  size: 31, 31
+  orig: 70, 101
+  offset: 19, 33
+  index: -1
+sg_004
+  rotate: false
+  xy: 1, 1
+  size: 28, 32
+  orig: 70, 101
+  offset: 26, 28
+  index: -1
+yinying
+  rotate: false
+  xy: 1, 35
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1

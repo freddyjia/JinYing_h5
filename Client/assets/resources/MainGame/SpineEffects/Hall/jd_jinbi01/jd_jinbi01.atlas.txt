@@ -1,0 +1,132 @@
+
+jd_jinbi01.png
+size: 1984,2003
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11_000
+  rotate: false
+  xy: 1830, 112
+  size: 126, 131
+  orig: 1024, 576
+  offset: 447, 307
+  index: -1
+11_001
+  rotate: true
+  xy: 1164, 1
+  size: 138, 148
+  orig: 1024, 576
+  offset: 441, 301
+  index: -1
+11_002
+  rotate: true
+  xy: 1407, 121
+  size: 135, 149
+  orig: 1024, 576
+  offset: 443, 295
+  index: -1
+11_003
+  rotate: true
+  xy: 1696, 116
+  size: 127, 132
+  orig: 1024, 576
+  offset: 446, 307
+  index: -1
+11_004
+  rotate: false
+  xy: 1407, 258
+  size: 156, 157
+  orig: 1024, 576
+  offset: 433, 300
+  index: -1
+11_005
+  rotate: false
+  xy: 1164, 141
+  size: 241, 274
+  orig: 1024, 576
+  offset: 390, 259
+  index: -1
+11_006
+  rotate: true
+  xy: 1611, 245
+  size: 328, 337
+  orig: 1024, 576
+  offset: 350, 239
+  index: -1
+11_007
+  rotate: true
+  xy: 1611, 575
+  size: 396, 337
+  orig: 1024, 576
+  offset: 325, 239
+  index: -1
+11_008
+  rotate: true
+  xy: 1694, 973
+  size: 509, 289
+  orig: 1024, 576
+  offset: 262, 287
+  index: -1
+11_009
+  rotate: false
+  xy: 958, 995
+  size: 734, 487
+  orig: 1024, 576
+  offset: 137, 89
+  index: -1
+11_010
+  rotate: false
+  xy: 1, 3
+  size: 855, 405
+  orig: 1024, 576
+  offset: 69, 171
+  index: -1
+11_011
+  rotate: false
+  xy: 958, 1484
+  size: 964, 518
+  orig: 1024, 576
+  offset: 10, 58
+  index: -1
+11_012
+  rotate: false
+  xy: 1, 873
+  size: 929, 576
+  orig: 1024, 576
+  offset: 95, 0
+  index: -1
+11_013
+  rotate: false
+  xy: 1, 1451
+  size: 955, 551
+  orig: 1024, 576
+  offset: 55, 0
+  index: -1
+11_014
+  rotate: false
+  xy: 1, 410
+  size: 861, 461
+  orig: 1024, 576
+  offset: 34, 0
+  index: -1
+11_015
+  rotate: false
+  xy: 932, 417
+  size: 677, 576
+  orig: 1024, 576
+  offset: 47, 0
+  index: -1
+11_016
+  rotate: false
+  xy: 858, 43
+  size: 304, 365
+  orig: 1024, 576
+  offset: 438, 136
+  index: -1
+11_017
+  rotate: false
+  xy: 1558, 114
+  size: 136, 129
+  orig: 1024, 576
+  offset: 438, 306
+  index: -1

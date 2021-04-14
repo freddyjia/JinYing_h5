@@ -1,0 +1,12 @@
+import * as $protobuf from "protobufjs";
+/** SLOTMsgDefine enum. */
+export enum SLOTMsgDefine {
+    MSG_SLOT_ACTION = 13001,
+    MSG_SLOT_PICK_REWARD = 13002,
+    MSG_SLOT_PUSH_BONUS_STEP = 13005,
+    MSG_SLOT_PUSH_ROOM_INFO = 13006,
+    MSG_SLOT_ROUND_END = 13003,
+    MSG_SLOT_BASE_SCORE_TIME = 13004,
+    MSG_GAME_LOGIN_SLOT = 13007,
+    MSG_GAME_LOGOUT_SLOT = 13008
+}

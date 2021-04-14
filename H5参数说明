@@ -1,0 +1,11 @@
+1.directOpenUrl=1,openurl 时使用 document.location = url。
+2.blankOpenUrl=1，openurl 时打开空白页，再把空白页指向目标页面。
+3.justOpenUrl=1，openurl 时使用window.open。
+4.channel=channelId,指定当前页面的渠道号。
+5.islegend=1，当前页面入口是传奇，会调用不同的登录接口。
+6.nocheckip=1，不检测ip地区合法性，可以减少进入游戏时间。
+7.mobilenum，thirdId，legendName，career，gender，sign，传奇登录的时候必填。
+8.playerId，推广员用到。
+9.payInIFrame=1,支付窗口使用cocos内置webview取代openurl。
+10.targetFrame=30,限制帧率
+11.officialURL,设置官网。如:officialURL=http://cacscan.680el.com/jp/hhbzl

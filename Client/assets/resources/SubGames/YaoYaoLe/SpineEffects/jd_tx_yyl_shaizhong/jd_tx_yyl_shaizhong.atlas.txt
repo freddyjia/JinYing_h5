@@ -1,0 +1,41 @@
+
+jd_tx_yyl_shaizhong.png
+size: 474,468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 182
+  size: 237, 285
+  orig: 362, 626
+  offset: 97, 5
+  index: -1
+2
+  rotate: true
+  xy: 1, 8
+  size: 172, 267
+  orig: 242, 417
+  offset: 51, 3
+  index: -1
+3_1
+  rotate: true
+  xy: 270, 1
+  size: 130, 172
+  orig: 130, 172
+  offset: 0, 0
+  index: -1
+4_1
+  rotate: true
+  xy: 270, 133
+  size: 137, 179
+  orig: 137, 179
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 240, 272
+  size: 233, 195
+  orig: 233, 195
+  offset: 0, 0
+  index: -1

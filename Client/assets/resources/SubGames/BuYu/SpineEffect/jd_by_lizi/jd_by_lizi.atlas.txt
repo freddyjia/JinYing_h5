@@ -1,0 +1,118 @@
+
+jd_by_lizi.png
+size: 710,426
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi_000
+  rotate: false
+  xy: 487, 80
+  size: 186, 68
+  orig: 443, 200
+  offset: 33, 66
+  index: -1
+lizi_001
+  rotate: true
+  xy: 642, 209
+  size: 216, 67
+  orig: 443, 200
+  offset: 12, 66
+  index: -1
+lizi_002
+  rotate: true
+  xy: 570, 210
+  size: 215, 70
+  orig: 443, 200
+  offset: 17, 65
+  index: -1
+lizi_003
+  rotate: false
+  xy: 480, 10
+  size: 220, 68
+  orig: 443, 200
+  offset: 22, 66
+  index: -1
+lizi_004
+  rotate: false
+  xy: 255, 1
+  size: 223, 69
+  orig: 443, 200
+  offset: 23, 66
+  index: -1
+lizi_005
+  rotate: false
+  xy: 262, 80
+  size: 223, 68
+  orig: 443, 200
+  offset: 32, 66
+  index: -1
+lizi_006
+  rotate: false
+  xy: 283, 150
+  size: 250, 68
+  orig: 443, 200
+  offset: 10, 68
+  index: -1
+lizi_007
+  rotate: false
+  xy: 1, 1
+  size: 252, 69
+  orig: 443, 200
+  offset: 16, 65
+  index: -1
+lizi_008
+  rotate: false
+  xy: 1, 141
+  size: 259, 71
+  orig: 443, 200
+  offset: 16, 66
+  index: -1
+lizi_009
+  rotate: false
+  xy: 284, 220
+  size: 254, 66
+  orig: 443, 200
+  offset: 25, 68
+  index: -1
+lizi_010
+  rotate: false
+  xy: 286, 288
+  size: 258, 67
+  orig: 443, 200
+  offset: 28, 66
+  index: -1
+lizi_011
+  rotate: false
+  xy: 1, 72
+  size: 259, 67
+  orig: 443, 200
+  offset: 33, 69
+  index: -1
+lizi_012
+  rotate: false
+  xy: 286, 357
+  size: 282, 68
+  orig: 443, 200
+  offset: 16, 66
+  index: -1
+lizi_013
+  rotate: false
+  xy: 1, 214
+  size: 280, 68
+  orig: 443, 200
+  offset: 23, 68
+  index: -1
+lizi_014
+  rotate: false
+  xy: 1, 355
+  size: 283, 70
+  orig: 443, 200
+  offset: 27, 65
+  index: -1
+lizi_015
+  rotate: false
+  xy: 1, 284
+  size: 281, 69
+  orig: 443, 200
+  offset: 35, 67
+  index: -1

@@ -1,0 +1,19 @@
+import * as $protobuf from "protobufjs";
+/** BaiRenNiuNiuMsgDefine enum. */
+export enum BaiRenNiuNiuMsgDefine {
+    MSG_PUSH_ROOM_INIT_DATA = 9100,
+    MSG_BET_REQ = 9101,
+    MSG_BANKER_LIST_REQ = 9103,
+    MSG_PUSH_DEAL = 9104,
+    MSG_PUSH_BET_INFO = 9105,
+    MSG_PUSH_STATE = 9106,
+    MSG_PUSH_PLAYER_LEAVE = 9107,
+    MSG_BANKER_REQ = 9108,
+    MSG_CANCEL_BANKER = 9109,
+    MSG_PUSH_BANKER = 9110,
+    MSG_PUSH_SEAT = 9111,
+    MSG_MEMBER_LIST = 9112,
+    MSG_LEAVE_REQ = 9102,
+    MSG_GAME_LOGIN_BAI_REN_NIU = 9113,
+    MSG_COMMON_RANK_LIST = 9115
+}

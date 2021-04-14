@@ -1,0 +1,83 @@
+
+images_klt.png
+size: 456,456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 305, 80
+  size: 76, 79
+  orig: 76, 79
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 383, 105
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+003
+  rotate: false
+  xy: 305, 161
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+1212
+  rotate: false
+  xy: 305, 17
+  size: 61, 61
+  orig: 64, 64
+  offset: 2, 2
+  index: -1
+127253-1
+  rotate: false
+  xy: 1, 305
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+127253-2
+  rotate: false
+  xy: 1, 153
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+127253-3
+  rotate: false
+  xy: 153, 305
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+127253-4
+  rotate: false
+  xy: 1, 1
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+127253-5
+  rotate: false
+  xy: 153, 153
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+127253-6
+  rotate: false
+  xy: 305, 305
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+127253-7
+  rotate: false
+  xy: 153, 1
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

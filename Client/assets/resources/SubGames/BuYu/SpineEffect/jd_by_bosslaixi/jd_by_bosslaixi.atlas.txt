@@ -1,0 +1,111 @@
+
+jd_by_bosslaixi.png
+size: 978,391
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+can
+  rotate: false
+  xy: 542, 129
+  size: 407, 115
+  orig: 407, 115
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 1, 200
+  size: 539, 190
+  orig: 539, 190
+  offset: 0, 0
+  index: -1
+hongxian01
+  rotate: false
+  xy: 533, 76
+  size: 253, 51
+  orig: 253, 51
+  offset: 0, 0
+  index: -1
+hongxian02
+  rotate: false
+  xy: 401, 9
+  size: 254, 62
+  orig: 254, 62
+  offset: 0, 0
+  index: -1
+hongxian03
+  rotate: false
+  xy: 156, 128
+  size: 248, 70
+  orig: 248, 70
+  offset: 0, 0
+  index: -1
+hongxian04
+  rotate: false
+  xy: 156, 71
+  size: 243, 55
+  orig: 243, 55
+  offset: 0, 0
+  index: -1
+shandian_25_01
+  rotate: false
+  xy: 156, 5
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shandian_25_02
+  rotate: false
+  xy: 222, 5
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shandian_25_03
+  rotate: false
+  xy: 288, 5
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shandian_25_04
+  rotate: false
+  xy: 657, 10
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+shexian01
+  rotate: false
+  xy: 406, 73
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+shexian02
+  rotate: false
+  xy: 1, 1
+  size: 76, 38
+  orig: 76, 38
+  offset: 0, 0
+  index: -1
+tan
+  rotate: false
+  xy: 1, 41
+  size: 153, 157
+  orig: 153, 157
+  offset: 0, 0
+  index: -1
+zi01
+  rotate: false
+  xy: 542, 246
+  size: 435, 144
+  orig: 435, 144
+  offset: 0, 0
+  index: -1
+zi01_1
+  rotate: false
+  xy: 542, 246
+  size: 435, 144
+  orig: 435, 144
+  offset: 0, 0
+  index: -1

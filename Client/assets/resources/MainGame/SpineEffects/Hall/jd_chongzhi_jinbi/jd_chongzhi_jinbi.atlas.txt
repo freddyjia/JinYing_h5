@@ -1,0 +1,96 @@
+
+jd_chongzhi_jinbi.png
+size: 2033,2040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12_0000
+  rotate: false
+  xy: 1045, 735
+  size: 706, 103
+  orig: 1280, 720
+  offset: 243, 617
+  index: -1
+12_0002
+  rotate: true
+  xy: 1691, 1
+  size: 732, 280
+  orig: 1280, 720
+  offset: 243, 440
+  index: -1
+12_0004
+  rotate: false
+  xy: 1, 16
+  size: 728, 649
+  orig: 1280, 720
+  offset: 243, 71
+  index: -1
+12_0007
+  rotate: false
+  xy: 1, 667
+  size: 1042, 685
+  orig: 1280, 720
+  offset: 55, 35
+  index: -1
+12_0008
+  rotate: false
+  xy: 1053, 840
+  size: 967, 685
+  orig: 1280, 720
+  offset: 99, 35
+  index: -1
+12_0009
+  rotate: false
+  xy: 1053, 1527
+  size: 979, 512
+  orig: 1280, 720
+  offset: 143, 208
+  index: -1
+12_0010
+  rotate: false
+  xy: 1, 1354
+  size: 1050, 685
+  orig: 1280, 720
+  offset: 143, 35
+  index: -1
+12_0011
+  rotate: false
+  xy: 731, 18
+  size: 958, 647
+  orig: 1280, 720
+  offset: 126, 73
+  index: -1
+
+jd_chongzhi_jinbi2.png
+size: 1605,1128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12_0001
+  rotate: false
+  xy: 727, 65
+  size: 718, 276
+  orig: 1280, 720
+  offset: 243, 444
+  index: -1
+12_0003
+  rotate: false
+  xy: 1, 1
+  size: 724, 439
+  orig: 1280, 720
+  offset: 243, 281
+  index: -1
+12_0005
+  rotate: true
+  xy: 924, 343
+  size: 784, 680
+  orig: 1280, 720
+  offset: 190, 40
+  index: -1
+12_0006
+  rotate: false
+  xy: 1, 442
+  size: 921, 685
+  orig: 1280, 720
+  offset: 113, 35
+  index: -1

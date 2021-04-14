@@ -1,0 +1,76 @@
+
+jd_tx_nn_dengdai.png
+size: 879,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: true
+  xy: 671, 73
+  size: 61, 71
+  orig: 61, 71
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 744, 72
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 606, 1
+  size: 61, 70
+  orig: 61, 70
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 816, 64
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 678, 1
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+06
+  rotate: true
+  xy: 739, 12
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 811, 27
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 606, 64
+  size: 63, 70
+  orig: 63, 70
+  offset: 0, 0
+  index: -1
+09
+  rotate: true
+  xy: 811, 2
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 1, 7
+  size: 603, 127
+  orig: 603, 127
+  offset: 0, 0
+  index: -1

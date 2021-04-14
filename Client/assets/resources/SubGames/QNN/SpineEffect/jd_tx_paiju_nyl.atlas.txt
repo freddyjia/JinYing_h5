@@ -1,0 +1,174 @@
+
+jd_tx_paiju_nyl.png
+size: 497,390
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 197, 92
+  size: 93, 82
+  orig: 93, 82
+  offset: 0, 0
+  index: -1
+22
+  rotate: true
+  xy: 359, 175
+  size: 94, 81
+  orig: 94, 81
+  offset: 0, 0
+  index: -1
+33
+  rotate: false
+  xy: 356, 93
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+di1
+  rotate: false
+  xy: 1, 176
+  size: 356, 93
+  orig: 356, 93
+  offset: 0, 0
+  index: -1
+di2
+  rotate: false
+  xy: 1, 271
+  size: 337, 118
+  orig: 337, 118
+  offset: 0, 0
+  index: -1
+er1
+  rotate: true
+  xy: 476, 123
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+er2
+  rotate: false
+  xy: 197, 3
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: false
+  xy: 390, 7
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+jinbi1
+  rotate: true
+  xy: 421, 6
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: false
+  xy: 468, 63
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+jinbi3
+  rotate: true
+  xy: 468, 31
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 197, 30
+  size: 95, 60
+  orig: 95, 60
+  offset: 0, 0
+  index: -1
+lingdai
+  rotate: true
+  xy: 438, 101
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: true
+  xy: 292, 106
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+maozi2
+  rotate: true
+  xy: 294, 37
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+shen
+  rotate: true
+  xy: 430, 297
+  size: 92, 66
+  orig: 92, 66
+  offset: 0, 0
+  index: -1
+ss
+  rotate: true
+  xy: 442, 157
+  size: 138, 33
+  orig: 138, 33
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 340, 271
+  size: 118, 88
+  orig: 118, 88
+  offset: 0, 0
+  index: -1
+touying
+  rotate: false
+  xy: 1, 26
+  size: 194, 148
+  orig: 220, 163
+  offset: 13, 15
+  index: -1
+ying
+  rotate: false
+  xy: 342, 45
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+youshou01
+  rotate: true
+  xy: 294, 1
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+youshou02
+  rotate: false
+  xy: 434, 41
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+zuoshou01
+  rotate: false
+  xy: 392, 46
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+zuoshou02
+  rotate: true
+  xy: 342, 1
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1

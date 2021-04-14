@@ -1,0 +1,118 @@
+
+jd_by_jiasujihuo.png
+size: 429,289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_009
+  rotate: true
+  xy: 266, 141
+  size: 72, 93
+  orig: 106, 103
+  offset: 6, 5
+  index: -1
+1_010
+  rotate: false
+  xy: 1, 196
+  size: 83, 92
+  orig: 106, 103
+  offset: 7, 5
+  index: -1
+1_011
+  rotate: false
+  xy: 170, 215
+  size: 94, 73
+  orig: 106, 103
+  offset: 7, 5
+  index: -1
+1_012
+  rotate: true
+  xy: 1, 102
+  size: 92, 83
+  orig: 106, 103
+  offset: 9, 6
+  index: -1
+1_013
+  rotate: true
+  xy: 266, 215
+  size: 73, 93
+  orig: 106, 103
+  offset: 28, 6
+  index: -1
+1_014
+  rotate: false
+  xy: 86, 196
+  size: 82, 92
+  orig: 106, 103
+  offset: 18, 8
+  index: -1
+1_015
+  rotate: false
+  xy: 170, 141
+  size: 94, 72
+  orig: 106, 103
+  offset: 6, 28
+  index: -1
+1_016
+  rotate: true
+  xy: 1, 8
+  size: 92, 82
+  orig: 106, 103
+  offset: 6, 17
+  index: -1
+xsg_009
+  rotate: false
+  xy: 361, 202
+  size: 67, 86
+  orig: 106, 103
+  offset: 8, 8
+  index: -1
+xsg_010
+  rotate: false
+  xy: 86, 108
+  size: 80, 86
+  orig: 106, 103
+  offset: 9, 7
+  index: -1
+xsg_011
+  rotate: false
+  xy: 168, 71
+  size: 86, 68
+  orig: 106, 103
+  offset: 12, 7
+  index: -1
+xsg_012
+  rotate: false
+  xy: 256, 59
+  size: 86, 80
+  orig: 106, 103
+  offset: 13, 8
+  index: -1
+xsg_013
+  rotate: true
+  xy: 168, 1
+  size: 68, 86
+  orig: 106, 103
+  offset: 31, 11
+  index: -1
+xsg_014
+  rotate: false
+  xy: 86, 20
+  size: 80, 86
+  orig: 106, 103
+  offset: 18, 12
+  index: -1
+xsg_015
+  rotate: true
+  xy: 361, 114
+  size: 86, 67
+  orig: 106, 103
+  offset: 9, 31
+  index: -1
+xsg_016
+  rotate: true
+  xy: 344, 26
+  size: 86, 79
+  orig: 106, 103
+  offset: 8, 18
+  index: -1

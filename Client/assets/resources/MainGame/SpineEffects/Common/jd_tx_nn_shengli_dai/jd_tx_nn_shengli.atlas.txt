@@ -1,0 +1,41 @@
+
+jd_tx_nn_shengli.png
+size: 99,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d5
+  rotate: false
+  xy: 1, 41
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+d6
+  rotate: false
+  xy: 1, 1
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+d7
+  rotate: false
+  xy: 65, 3
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+d8
+  rotate: false
+  xy: 24, 5
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+d9
+  rotate: false
+  xy: 42, 46
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1

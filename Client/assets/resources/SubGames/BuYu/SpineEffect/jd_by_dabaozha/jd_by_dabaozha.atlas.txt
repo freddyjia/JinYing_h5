@@ -1,0 +1,41 @@
+
+jd_by_dabaozha.png
+size: 732,278
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chs0643
+  rotate: false
+  xy: 537, 149
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Chs1754
+  rotate: false
+  xy: 667, 213
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+b
+  rotate: false
+  xy: 1, 1
+  size: 276, 276
+  orig: 300, 300
+  offset: 12, 12
+  index: -1
+glow_01
+  rotate: false
+  xy: 537, 19
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+jd_by_001
+  rotate: false
+  xy: 279, 21
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

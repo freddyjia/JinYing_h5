@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: jd_tx_yyl_renwu_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 69c92bade99b5a840b7f98a4f2cb77be, type: 3}
+  materials:
+  - {fileID: 2100000, guid: db41dc2153083a149b898b5f5d601433, type: 2}
+  - {fileID: 2100000, guid: 701eb9d0a6c663345b6a1a7c8b24acf8, type: 2}
+  - {fileID: 2100000, guid: a88f297f52c14c845b35a11c5ed94eab, type: 2}
+  - {fileID: 2100000, guid: dca23bcd8747fee44aa89bc621770400, type: 2}
+  - {fileID: 2100000, guid: 4d5a849f0364b544eb3b400a7d566ab2, type: 2}
+  - {fileID: 2100000, guid: 25ddea7193d6b8341b8529669365115a, type: 2}
+  - {fileID: 2100000, guid: 711786e80b24be3438d9e7572d499bd1, type: 2}

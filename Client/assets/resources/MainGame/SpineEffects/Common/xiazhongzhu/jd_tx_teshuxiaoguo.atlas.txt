@@ -1,0 +1,76 @@
+
+jd_tx_teshuxiaoguo.png
+size: 474,383
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/02_00
+  rotate: true
+  xy: 369, 171
+  size: 211, 62
+  orig: 211, 62
+  offset: 0, 0
+  index: -1
+image/fire_00
+  rotate: true
+  xy: 1, 1
+  size: 381, 44
+  orig: 386, 44
+  offset: 5, 0
+  index: -1
+image/fire_01
+  rotate: true
+  xy: 47, 1
+  size: 381, 44
+  orig: 386, 44
+  offset: 5, 0
+  index: -1
+image/fire_02
+  rotate: true
+  xy: 93, 1
+  size: 381, 44
+  orig: 386, 44
+  offset: 5, 0
+  index: -1
+image/fire_03
+  rotate: true
+  xy: 139, 1
+  size: 381, 44
+  orig: 386, 44
+  offset: 5, 0
+  index: -1
+image/fire_04
+  rotate: true
+  xy: 185, 1
+  size: 381, 44
+  orig: 386, 44
+  offset: 5, 0
+  index: -1
+image/fire_05
+  rotate: true
+  xy: 231, 1
+  size: 381, 44
+  orig: 386, 44
+  offset: 5, 0
+  index: -1
+image/fire_06
+  rotate: true
+  xy: 277, 1
+  size: 381, 44
+  orig: 386, 44
+  offset: 5, 0
+  index: -1
+image/fire_07
+  rotate: true
+  xy: 323, 1
+  size: 381, 44
+  orig: 386, 44
+  offset: 5, 0
+  index: -1
+image/glow01_00
+  rotate: false
+  xy: 369, 65
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1

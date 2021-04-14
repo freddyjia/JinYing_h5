@@ -1,0 +1,97 @@
+
+jd_tx_xuanze_y.png
+size: 783,294
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image圆/3_08
+  rotate: true
+  xy: 304, 1
+  size: 146, 140
+  orig: 257, 193
+  offset: 56, 8
+  index: -1
+image圆/3_10
+  rotate: true
+  xy: 296, 149
+  size: 144, 142
+  orig: 257, 193
+  offset: 57, 8
+  index: -1
+image圆/3_12
+  rotate: false
+  xy: 446, 10
+  size: 142, 142
+  orig: 257, 193
+  offset: 58, 8
+  index: -1
+image圆/3_14
+  rotate: false
+  xy: 1, 2
+  size: 150, 142
+  orig: 257, 193
+  offset: 54, 8
+  index: -1
+image圆/3_16
+  rotate: false
+  xy: 153, 5
+  size: 149, 139
+  orig: 257, 193
+  offset: 55, 9
+  index: -1
+image圆/3_18
+  rotate: false
+  xy: 1, 146
+  size: 147, 147
+  orig: 257, 193
+  offset: 56, 5
+  index: -1
+image圆/3_20
+  rotate: true
+  xy: 440, 154
+  size: 139, 147
+  orig: 257, 193
+  offset: 60, 5
+  index: -1
+image圆/3_22
+  rotate: true
+  xy: 150, 146
+  size: 147, 144
+  orig: 257, 193
+  offset: 56, 7
+  index: -1
+image圆/sg_08
+  rotate: false
+  xy: 693, 78
+  size: 76, 102
+  orig: 156, 165
+  offset: 20, 24
+  index: -1
+image圆/sg_09
+  rotate: false
+  xy: 590, 57
+  size: 96, 115
+  orig: 156, 165
+  offset: 20, 24
+  index: -1
+image圆/sg_10
+  rotate: false
+  xy: 589, 174
+  size: 102, 119
+  orig: 156, 165
+  offset: 29, 24
+  index: -1
+image圆/sg_11
+  rotate: false
+  xy: 693, 182
+  size: 89, 111
+  orig: 156, 165
+  offset: 46, 32
+  index: -1
+image圆/sg_12
+  rotate: true
+  xy: 688, 10
+  size: 66, 94
+  orig: 156, 165
+  offset: 69, 49
+  index: -1

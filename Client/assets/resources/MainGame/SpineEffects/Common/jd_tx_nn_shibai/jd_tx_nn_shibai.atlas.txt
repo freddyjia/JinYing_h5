@@ -1,0 +1,104 @@
+
+jd_tx_nn_shibai.png
+size: 479,270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00
+  rotate: false
+  xy: 192, 84
+  size: 186, 92
+  orig: 215, 105
+  offset: 20, 4
+  index: -1
+1_01
+  rotate: true
+  xy: 385, 86
+  size: 183, 92
+  orig: 215, 105
+  offset: 18, 4
+  index: -1
+1_02
+  rotate: false
+  xy: 195, 178
+  size: 188, 91
+  orig: 215, 105
+  offset: 19, 5
+  index: -1
+1_03
+  rotate: false
+  xy: 1, 178
+  size: 192, 91
+  orig: 215, 105
+  offset: 16, 4
+  index: -1
+1_04
+  rotate: false
+  xy: 1, 85
+  size: 189, 91
+  orig: 215, 105
+  offset: 16, 5
+  index: -1
+S
+  rotate: false
+  xy: 81, 3
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+l
+  rotate: true
+  xy: 300, 13
+  size: 69, 76
+  orig: 69, 76
+  offset: 0, 0
+  index: -1
+ni
+  rotate: true
+  xy: 1, 1
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+p1
+  rotate: false
+  xy: 410, 48
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+p2
+  rotate: false
+  xy: 447, 49
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+xd0211
+  rotate: false
+  xy: 170, 18
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+yezi1
+  rotate: false
+  xy: 378, 14
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+yezi2
+  rotate: false
+  xy: 412, 19
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+yezi3
+  rotate: true
+  xy: 378, 45
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1

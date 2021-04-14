@@ -1,0 +1,13 @@
+import * as $protobuf from "protobufjs";
+/** RedBlackMsgDefine enum. */
+export enum RedBlackMsgDefine {
+    MSG_PUSH_REDBLACK_INIT = 9200,
+    MSG_PUSH_REDBLACK_STATE = 9201,
+    MSG_PUSH_REDBLACK_OTHER_BET = 9202,
+    MSG_REDBLACK_BET_REQ = 9203,
+    MSG_UPDATE_REDBLACK_ROOM = 9206,
+    MSG_PUSH_REDBLACK_SETTLEMENT = 9207,
+    MSG_GAME_LOGIN_RED_BLACK = 9208,
+    MSG_REDBLACK_LEAVE_REQ = 9205,
+    MSG_COMMON_RANK_LIST = 9209
+}

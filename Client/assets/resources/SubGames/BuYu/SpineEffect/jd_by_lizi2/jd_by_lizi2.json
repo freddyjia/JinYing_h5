@@ -1,0 +1,59 @@
+{
+"skeleton": { "hash": "lM4kjLO+KCmtCLThr/CSnBdaJc4", "spine": "3.6.52", "width": 2560, "height": 1440, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "lizi_000", "parent": "root", "length": 81.11, "rotation": 88.39, "scaleX": 2, "scaleY": 2 }
+],
+"slots": [
+	{ "name": "lizi_000", "bone": "lizi_000", "attachment": "lizi_000", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"lizi_000": {
+			"lizi_000": { "rotation": -88.39, "width": 1280, "height": 720 },
+			"lizi_001": { "rotation": -88.39, "width": 1280, "height": 720 },
+			"lizi_002": { "rotation": -88.39, "width": 1280, "height": 720 },
+			"lizi_003": { "rotation": -88.39, "width": 1280, "height": 720 },
+			"lizi_004": { "rotation": -88.39, "width": 1280, "height": 720 },
+			"lizi_005": { "rotation": -88.39, "width": 1280, "height": 720 },
+			"lizi_006": { "rotation": -88.39, "width": 1280, "height": 720 },
+			"lizi_007": { "rotation": -88.39, "width": 1280, "height": 720 },
+			"lizi_008": { "rotation": -88.39, "width": 1280, "height": 720 },
+			"lizi_009": { "rotation": -88.39, "width": 1280, "height": 720 },
+			"lizi_010": { "rotation": -88.39, "width": 1280, "height": 720 },
+			"lizi_011": { "rotation": -88.39, "width": 1280, "height": 720 },
+			"lizi_012": { "rotation": -88.39, "width": 1280, "height": 720 },
+			"lizi_013": { "rotation": -88.39, "width": 1280, "height": 720 },
+			"lizi_014": { "rotation": -88.39, "width": 1280, "height": 720 },
+			"lizi_015": { "rotation": -88.39, "width": 1280, "height": 720 }
+		}
+	}
+},
+"animations": {
+	"1": {
+		"slots": {
+			"lizi_000": {
+				"attachment": [
+					{ "time": 0, "name": "lizi_000" },
+					{ "time": 0.2333, "name": "lizi_001" },
+					{ "time": 0.4667, "name": "lizi_002" },
+					{ "time": 0.7, "name": "lizi_003" },
+					{ "time": 0.9333, "name": "lizi_004" },
+					{ "time": 1.1667, "name": "lizi_005" },
+					{ "time": 1.4, "name": "lizi_006" },
+					{ "time": 1.6333, "name": "lizi_007" },
+					{ "time": 1.8667, "name": "lizi_008" },
+					{ "time": 2.1, "name": "lizi_009" },
+					{ "time": 2.3333, "name": "lizi_010" },
+					{ "time": 2.5667, "name": "lizi_011" },
+					{ "time": 2.8, "name": "lizi_012" },
+					{ "time": 3.0333, "name": "lizi_013" },
+					{ "time": 3.2667, "name": "lizi_014" },
+					{ "time": 3.5333, "name": "lizi_015" },
+					{ "time": 3.7667, "name": "lizi_000" }
+				]
+			}
+		}
+	}
+}
+}

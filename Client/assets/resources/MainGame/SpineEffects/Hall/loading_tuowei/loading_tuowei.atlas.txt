@@ -1,0 +1,69 @@
+
+loading_tuowei.png
+size: 493,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_00
+  rotate: true
+  xy: 380, 124
+  size: 51, 94
+  orig: 68, 136
+  offset: 12, 23
+  index: -1
+image_00
+  rotate: false
+  xy: 1, 1
+  size: 113, 40
+  orig: 227, 77
+  offset: 85, 16
+  index: -1
+image_01
+  rotate: false
+  xy: 369, 71
+  size: 123, 43
+  orig: 227, 77
+  offset: 73, 15
+  index: -1
+image_02
+  rotate: false
+  xy: 346, 11
+  size: 138, 47
+  orig: 227, 77
+  offset: 60, 13
+  index: -1
+image_03
+  rotate: false
+  xy: 191, 7
+  size: 153, 51
+  orig: 227, 77
+  offset: 47, 11
+  index: -1
+image_04
+  rotate: false
+  xy: 202, 60
+  size: 165, 54
+  orig: 227, 77
+  offset: 35, 9
+  index: -1
+image_05
+  rotate: false
+  xy: 202, 116
+  size: 176, 59
+  orig: 227, 77
+  offset: 22, 7
+  index: -1
+image_06
+  rotate: false
+  xy: 1, 43
+  size: 188, 63
+  orig: 227, 77
+  offset: 10, 6
+  index: -1
+image_07
+  rotate: false
+  xy: 1, 108
+  size: 199, 67
+  orig: 227, 77
+  offset: 0, 4
+  index: -1

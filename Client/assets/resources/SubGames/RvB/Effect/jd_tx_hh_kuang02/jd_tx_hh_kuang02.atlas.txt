@@ -1,0 +1,55 @@
+
+jd_tx_hh_kuang02.png
+size: 508,248
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lfdj_kuang2
+  rotate: false
+  xy: 1, 33
+  size: 465, 214
+  orig: 465, 214
+  offset: 0, 0
+  index: -1
+nn_lizi/nn_lizi_00001
+  rotate: false
+  xy: 468, 82
+  size: 19, 165
+  orig: 174, 320
+  offset: 79, 122
+  index: -1
+nn_lizi/nn_lizi_00002
+  rotate: true
+  xy: 1, 1
+  size: 30, 165
+  orig: 174, 320
+  offset: 74, 122
+  index: -1
+nn_lizi/nn_lizi_00003
+  rotate: true
+  xy: 168, 10
+  size: 21, 105
+  orig: 174, 320
+  offset: 87, 122
+  index: -1
+nn_lizi/nn_lizi_00004
+  rotate: false
+  xy: 489, 142
+  size: 18, 105
+  orig: 174, 320
+  offset: 91, 122
+  index: -1
+nn_lizi/nn_lizi_00005
+  rotate: true
+  xy: 275, 15
+  size: 16, 103
+  orig: 174, 320
+  offset: 92, 123
+  index: -1
+nn_lizi/nn_lizi_00006
+  rotate: false
+  xy: 468, 68
+  size: 12, 12
+  orig: 174, 320
+  offset: 94, 213
+  index: -1

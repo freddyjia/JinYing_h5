@@ -1,0 +1,62 @@
+
+jd_tx_fuhaosaoguang.png
+size: 238,171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 1, 110
+  size: 170, 60
+  orig: 170, 60
+  offset: 0, 0
+  index: -1
+ssg_000
+  rotate: false
+  xy: 173, 119
+  size: 62, 51
+  orig: 171, 66
+  offset: 4, 6
+  index: -1
+ssg_001
+  rotate: false
+  xy: 1, 1
+  size: 91, 52
+  orig: 171, 66
+  offset: 4, 5
+  index: -1
+ssg_002
+  rotate: false
+  xy: 1, 55
+  size: 117, 53
+  orig: 171, 66
+  offset: 18, 4
+  index: -1
+ssg_003
+  rotate: false
+  xy: 94, 7
+  size: 110, 46
+  orig: 171, 66
+  offset: 51, 4
+  index: -1
+ssg_004
+  rotate: true
+  xy: 206, 43
+  size: 74, 31
+  orig: 171, 66
+  offset: 94, 4
+  index: -1
+ssg_005
+  rotate: false
+  xy: 206, 12
+  size: 28, 29
+  orig: 171, 66
+  offset: 140, 6
+  index: -1
+star1
+  rotate: false
+  xy: 120, 59
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1

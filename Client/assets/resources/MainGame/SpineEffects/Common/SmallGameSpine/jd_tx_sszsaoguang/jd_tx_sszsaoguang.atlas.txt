@@ -1,0 +1,62 @@
+
+jd_tx_sszsaoguang.png
+size: 242,165
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gsg_000
+  rotate: false
+  xy: 1, 3
+  size: 72, 35
+  orig: 126, 68
+  offset: 3, 6
+  index: -1
+gsg_001
+  rotate: true
+  xy: 128, 67
+  size: 97, 55
+  orig: 126, 68
+  offset: 3, 6
+  index: -1
+gsg_002
+  rotate: true
+  xy: 68, 67
+  size: 97, 58
+  orig: 126, 68
+  offset: 21, 6
+  index: -1
+gsg_003
+  rotate: false
+  xy: 135, 6
+  size: 81, 58
+  orig: 126, 68
+  offset: 42, 6
+  index: -1
+gsg_004
+  rotate: true
+  xy: 75, 1
+  size: 64, 58
+  orig: 126, 68
+  offset: 59, 6
+  index: -1
+gsg_005
+  rotate: true
+  xy: 185, 117
+  size: 47, 56
+  orig: 126, 68
+  offset: 76, 8
+  index: -1
+star1
+  rotate: false
+  xy: 185, 66
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+v1
+  rotate: true
+  xy: 1, 40
+  size: 124, 65
+  orig: 124, 65
+  offset: 0, 0
+  index: -1

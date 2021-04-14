@@ -1,0 +1,13 @@
+import * as $protobuf from "protobufjs";
+/** LongHuMsgDefine enum. */
+export enum LongHuMsgDefine {
+    MSG_PUSH_LONGHU_INIT = 9300,
+    MSG_PUSH_LONGHU_STATE = 9301,
+    MSG_PUSH_LONGHU_OTHER_BET = 9302,
+    MSG_LONGHU_BET_REQ = 9303,
+    MSG_UPDATE_LONGHU_ROOM = 9305,
+    MSG_PUSH_LONGHU_SETTLEMENT = 9306,
+    MSG_GAME_LOGIN_LONG_HU = 9307,
+    MSG_LONGHU_LEAVE_REQ = 9304,
+    MSG_COMMON_RANK_LIST = 9309
+}

@@ -1,0 +1,34 @@
+
+jd_by_leidianguang.png
+size: 583,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1_0
+  rotate: false
+  xy: 459, 13
+  size: 123, 139
+  orig: 300, 300
+  offset: 86, 87
+  index: -1
+d1_1
+  rotate: true
+  xy: 1, 1
+  size: 151, 157
+  orig: 300, 300
+  offset: 80, 68
+  index: -1
+d1_2
+  rotate: false
+  xy: 160, 12
+  size: 137, 140
+  orig: 300, 300
+  offset: 90, 85
+  index: -1
+d1_3
+  rotate: true
+  xy: 299, 39
+  size: 113, 158
+  orig: 300, 300
+  offset: 107, 67
+  index: -1

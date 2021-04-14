@@ -1,0 +1,20 @@
+
+jd_tx_00.png
+size: 279,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 1, 1
+  size: 235, 204
+  orig: 235, 204
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 238, 29
+  size: 176, 40
+  orig: 176, 40
+  offset: 0, 0
+  index: -1

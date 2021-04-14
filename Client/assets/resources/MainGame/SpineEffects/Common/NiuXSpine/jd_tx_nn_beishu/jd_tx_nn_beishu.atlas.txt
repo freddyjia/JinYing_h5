@@ -1,0 +1,76 @@
+
+jd_tx_nn_beishu.png
+size: 214,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+x1
+  rotate: true
+  xy: 175, 37
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+x10
+  rotate: false
+  xy: 1, 81
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 1, 41
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+x3
+  rotate: false
+  xy: 1, 1
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+x4
+  rotate: false
+  xy: 59, 1
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+x5
+  rotate: false
+  xy: 60, 41
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+x6
+  rotate: false
+  xy: 70, 81
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+x7
+  rotate: false
+  xy: 118, 41
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+x8
+  rotate: false
+  xy: 117, 1
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+x9
+  rotate: false
+  xy: 128, 81
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1

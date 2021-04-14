@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a2f02666-37c3-4fa2-8be9-d0e296499668",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 255,
+  "height": 690,
+  "platformSettings": {},
+  "subMetas": {
+    "RedVsBlackatlas": {
+      "ver": "1.0.4",
+      "uuid": "f19f7e46-8592-416e-8a32-2da5d5882ec6",
+      "rawTextureUuid": "a2f02666-37c3-4fa2-8be9-d0e296499668",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 255,
+      "height": 690,
+      "rawWidth": 255,
+      "rawHeight": 690,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

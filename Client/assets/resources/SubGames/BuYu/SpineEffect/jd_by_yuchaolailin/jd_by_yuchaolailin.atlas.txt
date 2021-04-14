@@ -1,0 +1,118 @@
+
+jd_by_yuchaolailin.png
+size: 481,326
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beike
+  rotate: true
+  xy: 442, 17
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+bowen
+  rotate: false
+  xy: 53, 73
+  size: 256, 16
+  orig: 256, 16
+  offset: 0, 0
+  index: -1
+cao
+  rotate: true
+  xy: 16, 152
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 100, 91
+  size: 359, 115
+  orig: 359, 115
+  offset: 0, 0
+  index: -1
+lan1
+  rotate: true
+  xy: 1, 62
+  size: 144, 13
+  orig: 144, 13
+  offset: 0, 0
+  index: -1
+lan2
+  rotate: true
+  xy: 461, 66
+  size: 110, 16
+  orig: 110, 16
+  offset: 0, 0
+  index: -1
+paopao
+  rotate: true
+  xy: 16, 100
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+shuidi1
+  rotate: true
+  xy: 16, 67
+  size: 9, 35
+  orig: 9, 35
+  offset: 0, 0
+  index: -1
+shuidi2
+  rotate: false
+  xy: 461, 178
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+shuidi3
+  rotate: true
+  xy: 442, 78
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 1, 208
+  size: 475, 117
+  orig: 475, 117
+  offset: 0, 0
+  index: -1
+zisg_0000
+  rotate: false
+  xy: 100, 3
+  size: 71, 61
+  orig: 250, 72
+  offset: 6, 5
+  index: -1
+zisg_0001
+  rotate: false
+  xy: 173, 4
+  size: 101, 60
+  orig: 250, 72
+  offset: 26, 4
+  index: -1
+zisg_0002
+  rotate: false
+  xy: 345, 5
+  size: 95, 59
+  orig: 250, 72
+  offset: 81, 5
+  index: -1
+zisg_0003
+  rotate: false
+  xy: 1, 1
+  size: 97, 59
+  orig: 250, 72
+  offset: 130, 5
+  index: -1
+zisg_0004
+  rotate: false
+  xy: 276, 4
+  size: 67, 60
+  orig: 250, 72
+  offset: 179, 5
+  index: -1

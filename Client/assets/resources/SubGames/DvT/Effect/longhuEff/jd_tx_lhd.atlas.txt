@@ -1,0 +1,104 @@
+
+jd_tx_lhd.png
+size: 453,377
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ID_2599
+  rotate: false
+  xy: 388, 153
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+glow01
+  rotate: false
+  xy: 242, 248
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hu
+  rotate: false
+  xy: 1, 189
+  size: 239, 187
+  orig: 239, 187
+  offset: 0, 0
+  index: -1
+long
+  rotate: false
+  xy: 1, 1
+  size: 219, 186
+  orig: 219, 186
+  offset: 0, 0
+  index: -1
+particular/00000
+  rotate: false
+  xy: 222, 28
+  size: 89, 76
+  orig: 196, 149
+  offset: 51, 37
+  index: -1
+particular/00001
+  rotate: true
+  xy: 372, 279
+  size: 97, 76
+  orig: 196, 149
+  offset: 49, 36
+  index: -1
+particular/00002
+  rotate: false
+  xy: 242, 181
+  size: 99, 65
+  orig: 196, 149
+  offset: 48, 47
+  index: -1
+particular/00003
+  rotate: true
+  xy: 322, 104
+  size: 75, 64
+  orig: 196, 149
+  offset: 61, 46
+  index: -1
+particular/00004
+  rotate: false
+  xy: 372, 219
+  size: 78, 58
+  orig: 196, 149
+  offset: 59, 49
+  index: -1
+particular/00005
+  rotate: false
+  xy: 313, 44
+  size: 70, 58
+  orig: 196, 149
+  offset: 59, 49
+  index: -1
+particular/00006
+  rotate: true
+  xy: 388, 100
+  size: 51, 55
+  orig: 196, 149
+  offset: 78, 48
+  index: -1
+particular/00007
+  rotate: false
+  xy: 222, 14
+  size: 38, 12
+  orig: 196, 149
+  offset: 90, 57
+  index: -1
+quan0
+  rotate: false
+  xy: 385, 48
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+vs
+  rotate: false
+  xy: 222, 106
+  size: 98, 73
+  orig: 98, 73
+  offset: 0, 0
+  index: -1

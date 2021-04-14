@@ -1,0 +1,20 @@
+
+jd_by_position.png
+size: 409,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BY_JT_nideweizhi
+  rotate: false
+  xy: 1, 37
+  size: 225, 98
+  orig: 225, 98
+  offset: 0, 0
+  index: -1
+jd_by_jiantou
+  rotate: true
+  xy: 228, 1
+  size: 134, 180
+  orig: 256, 256
+  offset: 61, 38
+  index: -1

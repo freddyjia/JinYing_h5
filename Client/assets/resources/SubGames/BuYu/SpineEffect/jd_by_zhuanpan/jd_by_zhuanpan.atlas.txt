@@ -1,0 +1,48 @@
+
+jd_by_zhuanpan.png
+size: 497,474
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Glow_006
+  rotate: false
+  xy: 259, 236
+  size: 237, 237
+  orig: 256, 256
+  offset: 10, 9
+  index: -1
+Wan
+  rotate: false
+  xy: 1, 217
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 1, 1
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 187, 187
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 1, 31
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: -1
+n1
+  rotate: false
+  xy: 259, 3
+  size: 232, 231
+  orig: 256, 256
+  offset: 12, 13
+  index: -1

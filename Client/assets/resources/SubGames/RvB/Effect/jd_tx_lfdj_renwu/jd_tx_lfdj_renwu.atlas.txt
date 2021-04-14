@@ -1,0 +1,48 @@
+
+jd_tx_lfdj_renwu.png
+size: 282,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye02
+  rotate: false
+  xy: 191, 1
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+eye03
+  rotate: false
+  xy: 143, 1
+  size: 46, 16
+  orig: 46, 16
+  offset: 0, 0
+  index: -1
+nan
+  rotate: false
+  xy: 143, 19
+  size: 138, 150
+  orig: 138, 150
+  offset: 0, 0
+  index: -1
+nv
+  rotate: false
+  xy: 1, 13
+  size: 140, 156
+  orig: 140, 156
+  offset: 0, 0
+  index: -1
+y02
+  rotate: false
+  xy: 1, 2
+  size: 36, 9
+  orig: 36, 9
+  offset: 0, 0
+  index: -1
+y03
+  rotate: false
+  xy: 237, 4
+  size: 37, 13
+  orig: 37, 13
+  offset: 0, 0
+  index: -1

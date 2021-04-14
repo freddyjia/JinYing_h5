@@ -1,0 +1,27 @@
+
+jd_tx_nn_shibai.png
+size: 39,86
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yezi2
+  rotate: true
+  xy: 1, 33
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+yezi3
+  rotate: false
+  xy: 1, 1
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+yezi4
+  rotate: true
+  xy: 1, 61
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

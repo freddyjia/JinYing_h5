@@ -1,0 +1,15 @@
+info face="face" size=30
+common lineHeight=30 scaleW=94 scaleH=94 pages=1
+page id=0 file="GoldNumber.png"
+chars count=11
+char id=46 x=0 y=0 width=22 height=30 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=48 x=24 y=0 width=22 height=30 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=49 x=48 y=0 width=22 height=30 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=50 x=0 y=32 width=22 height=30 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=51 x=24 y=32 width=22 height=30 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=52 x=48 y=32 width=22 height=30 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=53 x=72 y=0 width=22 height=30 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=54 x=72 y=32 width=22 height=30 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=55 x=0 y=64 width=22 height=30 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=56 x=24 y=64 width=22 height=30 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
+char id=57 x=48 y=64 width=22 height=30 xoffset=0 yoffset=0 xadvance=22 page=0 chnl=15
